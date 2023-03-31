@@ -1,0 +1,7 @@
+PUT http://localhost:8080/api/dogs/6426a769b46047f1f67e5b35
+Content-Type: application/json
+
+{
+    "likes": 3,
+    "dislikes": 2
+}
